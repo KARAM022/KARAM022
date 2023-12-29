@@ -22,6 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karam022&show_icons=true&locale=en" alt="karam022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karam022&" alt="karam022" /></p>
-
-
-<script>alert(1)</script>
