@@ -1,1 +1,1 @@
-<img src="https://media.tenor.com/i22Batz8ryoAAAAC/lofi.gif">
+<img decoding="async" data-src="https://media.tenor.com/i22Batz8ryoAAAAC/lofi.gif" src="https://media.tenor.com/i22Batz8ryoAAAAC/lofi.gif">
