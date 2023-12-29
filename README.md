@@ -1,1 +1,1 @@
-<img fetchpriority="auto" src="https://i.pinimg.com/originals/c4/a8/de/c4a8dee7fb9b37a361159f61e55be7c4.gif">
+<img src="https://media.tenor.com/i22Batz8ryoAAAAC/lofi.gif">
