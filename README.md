@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/i22Batz8ryoAAAAC/lofi.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm KARAM</h1>
 <h3 align="center">A full stack developer</h3>
 
