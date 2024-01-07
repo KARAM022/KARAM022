@@ -32,7 +32,7 @@
 
 </p>
 
-<img align="left" alt="Coding" width="20%" src="https://www.vincentvangogh.org/images/paintings/two-cut-sunflowers.jpg">
+<img align="left" alt="Coding" width="30%" src="https://www.vincentvangogh.org/images/paintings/two-cut-sunflowers.jpg">
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
 
