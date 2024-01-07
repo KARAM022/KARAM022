@@ -1,6 +1,4 @@
 <img src="https://raw.githubusercontent.com/KARAM022/KARAM022/main/src/Screenshot%202024-01-07%20171311.png" alt="bootstrap" width="100%"/>
-<h1 align="center">Hi 👋, I'm KARAM</h1>
-<h3 align="center">A full stack developer</h3>
 
 - 🔭 I’m currently working on [GMAO](https://github.com/KARAM022/stage-GMAO)
 
