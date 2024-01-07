@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=holi&show_icons=true" alt="karam022" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=github-dark-blue" alt="karam022" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=holi" alt="karam022" /></p>
