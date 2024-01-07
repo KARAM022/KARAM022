@@ -38,7 +38,7 @@
 
 
 
-<p><img align="button" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=react&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=react&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
 
 
 
