@@ -35,10 +35,10 @@
 <img align="left" alt="Coding" width="300" src="https://www.vincentvangogh.org/images/paintings/two-cut-sunflowers.jpg">
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
-
+<br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=react&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
 
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
 
