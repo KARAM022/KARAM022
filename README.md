@@ -36,7 +36,7 @@
 <img alt="Coding" align='left' width="40%" src="https://www.vincentvangogh.org/images/paintings/two-cut-sunflowers.jpg">
 
 
-<p><img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
 
 <p>&nbsp;<img align='right' src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
 
