@@ -32,12 +32,15 @@
 
 </p>
 
+<img align="left" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=react&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
+
 
 
 <img src="https://raw.githubusercontent.com/KARAM022/KARAM022/main/src/Screenshot%202024-01-07%20190819.png" alt="bootstrap" width="100%"/>
