@@ -39,5 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
 
 
-<p><img align="center" src="https://raw.githubusercontent.com/KARAM022/KARAM022/main/src/Screenshot%202024-01-07%20190819.png" alt="karam022" /></p>
+<img src="https://raw.githubusercontent.com/KARAM022/KARAM022/main/src/Screenshot%202024-01-07%20190819.png" alt="bootstrap" width="100%"/>
 
