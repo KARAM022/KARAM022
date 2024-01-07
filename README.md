@@ -31,9 +31,8 @@
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARAM022&theme=holi&show_icons=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=holi&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=holi&show_icons=true" alt="karam022" /></p>
 
