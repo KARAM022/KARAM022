@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/KARAM022/KARAM022/main/src/Screenshot%202024-01-07%20171311.png" alt="bootstrap" width="100%"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [GMAO](https://github.com/KARAM022/stage-GMAO)
 
