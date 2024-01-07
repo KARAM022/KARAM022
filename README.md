@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/KARAM022/KARAM022/main/src/Screenshot%202024-01-07%20165144.png" alt="bootstrap" width="100%"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Faster+One&duration=2000&pause=1000&color=FFFFFF&background=011A4F&random=false&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Faster+One&duration=2000&pause=1000&color=011A4F&background=011A4F00&random=false&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm KARAM</h1>
 <h3 align="center">A full stack developer</h3>
 
