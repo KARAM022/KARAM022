@@ -38,6 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=react&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
 
 
