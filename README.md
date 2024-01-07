@@ -36,14 +36,13 @@
 
 <p><img align="right" width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=KARAM022&theme=react" alt="karam022" /></p>
 
-<p width="100px"  align="button">.</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=react&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
+<p><img align="button" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam022&theme=react&show_icons=true&locale=en&layout=compact" alt="karam022" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
+<p>&nbsp;<img align="button" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
 
 
 
