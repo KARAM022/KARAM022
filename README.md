@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5bd6645551f4d49caf7eef4b/1582595851511-0KBNCM3DUN2SDJ9RM787/2-GradientSMALL.gif)](#hi--im-karam)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)](#hi--im-karam)
 <h1 align="center">Hi 👋, I'm KARAM</h1>
 <h3 align="center">A full stack developer</h3>
 
