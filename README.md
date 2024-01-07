@@ -42,7 +42,7 @@
 
 
 
-<p>&nbsp;<img align="button" src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=KARAM022&theme=react&show_icons=true" alt="karam022" /></p>
 
 
 
