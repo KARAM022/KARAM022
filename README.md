@@ -50,5 +50,3 @@
 
 <img src="https://raw.githubusercontent.com/KARAM022/KARAM022/main/src/Screenshot%202024-01-07%20190819.png" alt="bootstrap" width="100%"/>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karam022&" alt="karam022" /></p>
